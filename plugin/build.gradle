@@ -18,8 +18,8 @@ plugins {
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-group = 'io.github.ramanji025.gradle.liquibase.plugin'
-version = '1.0.0'
+group = 'io.github.ramanji025.liquibase.plugin'
+version = '1.0.1'
 sourceCompatibility=17
 targetCompatibility=17
 
